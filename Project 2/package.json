@@ -1,0 +1,21 @@
+{
+  "name": "project-2-backend-api",
+  "version": "1.0.0",
+  "description": "Simple backend API developed for Full Stack Development Project 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
